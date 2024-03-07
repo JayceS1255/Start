@@ -1,0 +1,9 @@
+x = int(input("What's x? "))
+y = int(input("What's y? "))
+
+if x == y:
+    print('X is equal to Y')  
+else:
+    print ('x is no equal to y')
+
+
